@@ -4,7 +4,7 @@ Este é um projeto simples de consulta de clima, onde o usuário pode digitar o 
 
 ## 🔗 Visualizar Projeto
 
-[Visualizar Projeto](https://tainamartins20.github.io/weather-finder)
+[Visualizar Projeto](https://tainamartins20.github.io/weather-finder/)
 
 ## 📝 Descrição
 
